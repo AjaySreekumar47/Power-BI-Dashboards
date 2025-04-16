@@ -1,7 +1,5 @@
 # PWC Power BI Dashboard Projects
 
-![PWC Power BI Banner](images/pwc-power-bi-banner.jpg)
-
 ## Overview
 
 This repository contains three Power BI dashboard projects completed as part of the PWC Virtual Internship Experience on Forage. Each dashboard addresses a different business problem using data visualization and analysis techniques in Microsoft Power BI.
@@ -9,8 +7,6 @@ This repository contains three Power BI dashboard projects completed as part of 
 ## Projects
 
 ### 1. Call Center Trends
-
-![Call Center Dashboard](images/call-center-trends.jpg)
 
 #### Project Description
 The Call Center Trends dashboard provides a comprehensive analysis of customer and agent interactions at a call center, allowing stakeholders to monitor performance metrics and identify areas for improvement.
@@ -30,8 +26,6 @@ This dashboard helps call center managers optimize staffing, improve agent train
 
 ### 2. Customer Retention
 
-![Customer Retention Dashboard](images/customer-retention.jpg)
-
 #### Project Description
 The Customer Retention dashboard focuses on analyzing churn patterns and retention strategies, helping the business identify at-risk customers and implement targeted interventions.
 
@@ -50,7 +44,6 @@ This analysis helps the company reduce customer churn, improve retention strateg
 
 ### 3. Diversity & Inclusion
 
-![Diversity & Inclusion Dashboard](images/diversity-inclusion.jpg)
 
 #### Project Description
 The Diversity & Inclusion dashboard for a Pharma Group AG (FY2020) provides a data-driven approach to measuring and improving workplace diversity, equity, and inclusion metrics.
